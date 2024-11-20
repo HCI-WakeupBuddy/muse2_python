@@ -19,8 +19,15 @@ muse2-python 연동 코드입니다
 pip install -r requirements.txt
 ```
 
+### 초기 설정 후 사용 방법
 
-### 가상 환경 비활성화
+가상 환경 활성화
+
+```
+source venv/bin/activate
+```
+
+가상 환경 비활성화
 
 ```
 deactivate
